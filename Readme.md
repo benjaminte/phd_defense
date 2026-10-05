@@ -1,10 +1,9 @@
-This repo contains slides, references and source material for my public PhD defense presentation
+This repo contains slides, references and source material for my public PhD defense presentation:
 
 *"Origins of life in our Solar System - a computational engineering perspective"*
 
 # License
-The material is
-licensed under version 3 or later of the GNU General Public License.
+The material is licensed under version 3 or later of the GNU General Public License.
 See the file LICENSE for full copying permissions.
 
 # Acknowledgements
@@ -20,11 +19,11 @@ We gratefully acknowledge the developers of iSALE-2D, including Gareth Collins, 
 
 ## XSHELLS
 
-The presentation shows a geodynamo benchmark obtained with the open source XSHELLS, maintained by Nathanaël Schaeffer, see
+The presentation shows a geodynamo benchmark obtained with the open-source code XSHELLS, maintained by Nathanaël Schaeffer; see
 
 https://nschaeff.bitbucket.io/xshells/
 
-The exact benchmark can be found at 
+The exact benchmark can be found at:
 
 https://bitbucket.org/nschaeff/xshells/src/master/problems/geodynamo/
 
@@ -58,13 +57,13 @@ Kasting, J. F., et al. “Habitable Zones around Main Sequence Stars.” Icarus 
 
 Kopparapu, R. K., et al. “Habitable Zones around Main Sequence Stars: New Estimates.” The Astrophysical Journal 765, no. 2 (2013): 131. https://doi.org/10.1088/0004-637X/765/2/131.
 
-Kruttasch, P. M., and K. Mezger. “Time of Proto-Earth Reservoir Formation and Volatile Element Depletion from 53Mn-53Cr Chronometry.” Science AdvAnceS, 2025.
+Kruttasch, P. M., and K. Mezger. “Time of Proto-Earth Reservoir Formation and Volatile Element Depletion from 53Mn-53Cr Chronometry.” Science Advances, 2025.
 
 Lammer, H., et al. “What Makes a Planet Habitable?” The Astronomy and Astrophysics Review 17, no. 2 (2009): 181–249. https://doi.org/10.1007/s00159-009-0019-z.
 
 Lunine, J. I. “Ocean Worlds and Habitability.” Presentation. California Institute of Technology, Pasadena, CA, September 9, 2024. https://www.kiss.caltech.edu/workshops/sample_return/Presentations/Talk%204%20-%20Lunine.pdf.
 
-Miller, S. L. “A Production of Amino Accids under Possible Primitive Earth Conditions.” Science 117, no. 3046 (1953): 528–29. https://doi.org/10.1126/science.117.3046.528.
+Miller, S. L. “A Production of Amino Acids under Possible Primitive Earth Conditions.” Science 117, no. 3046 (1953): 528–29. https://doi.org/10.1126/science.117.3046.528.
 
 Miyazaki, Y., and J. Korenaga. “A Wet Heterogeneous Mantle Creates a Habitable World in the Hadean.” Nature 603, no. 7899 (2022): 86–90. https://doi.org/10.1038/s41586-021-04371-9.
 
