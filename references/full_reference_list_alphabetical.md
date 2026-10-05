@@ -1,16 +1,3 @@
-This repo contains slides, references and source material for my public PhD defense presentation
-
-*"Origins of life in our Solar System - a computational engineering perspective"*
-
-### License
-The material is
-licensed under version 3 or later of the GNU General Public License.
-See the file LICENSE for full copying permissions.
-
-### References
-
-(in alphabetical order)
-
 Amsden, A. A., et al. SALE: A Simplified ALE Computer Program for Fluid Flow at All Speeds. Los Alamos Scientific Lab., NM (USA), 1980. https://doi.org/10.2172/5176006.
 
 Anders, E., and M. Ebihara. “Solar-System Abundances of the Elements.” Geochimica et Cosmochimica Acta 46, no. 11 (1982): 2363–80. https://doi.org/10.1016/0016-7037(82)90208-3.
@@ -70,8 +57,3 @@ Weiss, M. C., et al. “The Physiology and Habitat of the Last Universal Common 
 Wolfram Research. “ElementData.” 2007. https://reference.wolfram.com/language/ref/ElementData.html.
 
 Wünnemann, K., et al. “A Strain-Based Porosity Model for Use in Hydrocode Simulations of Impacts and Implications for Transient Crater Growth in Porous Targets.” Icarus 180, no. 2 (2006): 514–27. https://doi.org/10.1016/j.icarus.2005.10.013.
-
-
-
-
-

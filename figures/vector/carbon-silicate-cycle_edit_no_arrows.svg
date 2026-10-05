@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1000 986.78516"
+   width="1000"
+   height="986.78516"
+   font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif"
+   version="1.1"
+   id="svg67"
+   sodipodi:docname="carbon-silicate-cycle_edit_no_arrows.svg"
+   inkscape:version="1.4.4 (1:1.4.4+202605061432+dcaf3e7d9e)"
+   inkscape:export-filename="carbon-silicate-cycle_no_arrows.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:c2pa="http://c2pa.org/manifest">
+  <sodipodi:namedview
+     id="namedview67"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.43053678"
+     inkscape:cx="537.70087"
+     inkscape:cy="502.86064"
+     inkscape:window-width="1920"
+     inkscape:window-height="983"
+     inkscape:window-x="1"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g67" />
+  <metadata
+     id="metadata1">
+    <c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4ZGUyMDYzMS03MjRlLTRiYzAtOWYyYi00MTE3NGUwOTYzMWQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNPL+aGVIutGJ2Qt8MkcT2UAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2NjA1NTczNC1lNDgyLTQxNTEtOGVkMC04YmY5OWQ1MjgwYTRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo/UAPNg/qI1CzxRwiCxDPegAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggbd3+aX0PqFuHxzypPImrP+YZXdi/jSfac/D6kE17EASkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaB7CC6LeL+m+dtJjy1k19SMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDSuOUgJJ6GeOra/mwqeS+L49iv6BjeHMLGCU68tTU8aWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjRZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjhkZTIwNjMxLTcyNGUtNGJjMC05ZjJiLTQxMTc0ZTA5NjMxZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE3NjJiOTc1LTRiYzktNDQ5NC04M2I5LWVhOGM2YThhZjdjZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBt3f5pfQ+oW4fHPKk8ias/5hld2L+NJ9pz8PqQTXsQBKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggehqgUKYRxIYRMQ66bcJG9fYuzmsySv+4sQtKdkubR3uiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggTRz8/deqaRFVJxONYWVQ1GoFXdNbNv7HDhLA2TiRqt90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQB6RD8c5Nn5w2J85jk4rT4QLAroa6NIOyt1o95sNxT8qf3kbus3vOHbijlWoNx+8JZeRNj0MLqpUoIWFEzTMQ6U=</c2pa:manifest>
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>The carbon–silicate cycle</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title1">The carbon–silicate cycle</title>
+  <defs
+     id="defs5">
+    <linearGradient
+       id="sky"
+       x1="0"
+       y1="-192.99341"
+       x2="0"
+       y2="726.87488"
+       gradientTransform="scale(1.0897101,0.91767523)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#F4F6FE"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#E2E8FA"
+         id="stop2" />
+    </linearGradient>
+    <clipPath
+       id="frame">
+      <rect
+         x="18"
+         y="18"
+         width="924"
+         height="584"
+         rx="38"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="oceanClip">
+      <path
+         d="m 18,306 c 52,-8 94,12 150,4 56,-8 94,10 154,2 50,-6 110,6 156,-2 -12,10 -26,20 -38,30 -45,60 -60,97 -110,102 -90,8 -210,-12 -312,-4 z"
+         id="path2" />
+    </clipPath>
+    <!-- everything above the rock surface: used to seat the volcano on the ground -->
+    <clipPath
+       id="skyRegion">
+      <path
+         d="m 18,18 h 924 v 240 c -142,4 -242,10 -294,16 -28,2 -58,4 -103,8 -45,4 -75,18 -105,58 -45,60 -60,97 -110,102 -90,8 -210,-12 -312,-4 z"
+         id="path3" />
+    </clipPath>
+    <marker
+       id="headDark"
+       markerUnits="userSpaceOnUse"
+       markerWidth="70"
+       markerHeight="70"
+       refX="8"
+       refY="14"
+       orient="auto"
+       viewBox="0 0 24.999653 24.999653"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 2,3 24,14 2,25 Q 7,14 2,3 Z"
+         fill="#2e2b2a"
+         stroke="#2e2b2a"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path4" />
+    </marker>
+    <marker
+       id="headLight"
+       markerUnits="userSpaceOnUse"
+       markerWidth="70"
+       markerHeight="70"
+       refX="6"
+       refY="11"
+       orient="auto"
+       viewBox="0 0 16 16"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 2,3 18,11 2,19 Q 6,11 2,3 Z"
+         fill="#fff6e8"
+         id="path5" />
+    </marker>
+    <filter
+       id="soft"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feDropShadow
+         dx="0"
+         dy="6"
+         stdDeviation="10"
+         flood-color="#3A3542"
+         flood-opacity="0.18" />
+    </filter>
+    <marker
+       id="headDark-7"
+       markerUnits="userSpaceOnUse"
+       markerWidth="50"
+       markerHeight="50"
+       refX="8"
+       refY="14"
+       orient="auto"
+       viewBox="0 0 24.999653 24.999653"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 2,3 24,14 2,25 Q 7,14 2,3 Z"
+         fill="#2e2b2a"
+         stroke="#2e2b2a"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path4-8" />
+    </marker>
+    <marker
+       id="headDark-7-0"
+       markerUnits="userSpaceOnUse"
+       markerWidth="50"
+       markerHeight="50"
+       refX="8"
+       refY="14"
+       orient="auto"
+       viewBox="0 0 24.999653 24.999653"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 2,3 24,14 2,25 Q 7,14 2,3 Z"
+         fill="#2e2b2a"
+         stroke="#2e2b2a"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path4-8-3" />
+    </marker>
+  </defs>
+  <g
+     clip-path="url(#frame)"
+     id="g67"
+     transform="translate(23.5,178.60527)">
+    <!-- sky -->
+    <!-- soft cloud -->
+    <!-- rock: crust + continent -->
+    <!-- ocean -->
+    <path
+       d="m 18,306 c 52,-8 94,12 150,4 56,-8 94,10 154,2 50,-6 110,6 156,-2 -12,10 -26,20 -38,30 -45,60 -60,97 -110,102 -90,8 -210,-12 -312,-4 z"
+       fill="#1479cf"
+       id="path11"
+       style="fill:#00549f;fill-opacity:1" />
+    <g
+       clip-path="url(#oceanClip)"
+       id="g13">
+      <path
+         d="m 18,392 c 102,-10 222,8 322,-2 60,-6 100,6 150,-2 v 92 H 18 Z"
+         fill="#0b5ca5"
+         id="path12"
+         style="fill:#00549f;fill-opacity:1" />
+      <!-- carbonate ooze on the sea floor -->
+      <path
+         d="m 18,438 c 102,-8 222,12 312,4 50,-5 65,-42 110,-102"
+         fill="none"
+         stroke="#e8dfc9"
+         stroke-width="30"
+         stroke-linecap="round"
+         id="path13" />
+    </g>
+    <!-- sinking carbonate shells -->
+    <g
+       id="g74"
+       inkscape:label="smoke"
+       style="fill:#d8d8d8;fill-opacity:1">
+      <ellipse
+         style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke:none;paint-order:fill markers stroke"
+         id="path68"
+         cx="719.39014"
+         cy="144.86694"
+         rx="45.812401"
+         ry="40.36694" />
+      <ellipse
+         style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke:none;paint-order:fill markers stroke"
+         id="path69"
+         cx="715.58514"
+         cy="86.5"
+         rx="58.266151"
+         ry="41.5" />
+      <ellipse
+         style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke:none;paint-order:fill markers stroke"
+         id="path70"
+         cx="806.13843"
+         cy="139.02431"
+         rx="68.35128"
+         ry="43.213673" />
+      <ellipse
+         style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke:none;paint-order:fill markers stroke"
+         id="path71"
+         cx="862.78558"
+         cy="106.6561"
+         rx="30.285591"
+         ry="25.156097" />
+      <ellipse
+         style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke:none;paint-order:fill markers stroke"
+         id="path72"
+         cx="850.24487"
+         cy="64.033134"
+         rx="24.244854"
+         ry="23.966869" />
+      <ellipse
+         style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke:none;paint-order:fill markers stroke"
+         id="path73"
+         cx="818.31842"
+         cy="65.812462"
+         rx="44.467144"
+         ry="40.843632" />
+      <ellipse
+         style="opacity:1;fill:#d8d8d8;fill-opacity:1;stroke:none;paint-order:fill markers stroke"
+         id="path74"
+         cx="767.65875"
+         cy="55.793198"
+         rx="36.492298"
+         ry="31" />
+    </g>
+    <g
+       fill="#f1e9d7"
+       stroke="#c9bfa6"
+       stroke-width="1.5"
+       id="g20" />
+    <!-- mantle -->
+    <!-- volcano, seated on the ground line -->
+    <g
+       clip-path="url(#skyRegion)"
+       id="g23">
+      <path
+         d="m 620,304 c 70,-22 106,-98 130,-146 l 8,-8 q 16,16 32,0 l 8,8 c 24,48 60,124 122,146 z"
+         fill="#adadad"
+         id="path21" />
+      <path
+         d="m 620,304 c 70,-22 106,-98 130,-146 l 8,-8 16,13 v 141 z"
+         fill="#bfbfbf"
+         id="path22" />
+      <path
+         d="m 620,304 c 70,-22 106,-98 130,-146 l 8,-8 q 16,16 32,0 l 8,8 c 24,48 60,124 122,146"
+         fill="none"
+         stroke="#4a4644"
+         stroke-width="5"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         id="path23" />
+    </g>
+    <!-- magma chamber + conduit -->
+    <path
+       d="M 770,171.23179 C 755.83223,205.06402 731.83223,231.83223 710,258"
+       fill="none"
+       stroke="#d22c2c"
+       stroke-width="9"
+       stroke-linecap="round"
+       id="path25"
+       style="stroke:#e65173;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <!-- eruption -->
+    <g
+       stroke="#d22c2c"
+       stroke-linecap="round"
+       fill="#d22c2c"
+       id="g33"
+       style="stroke:#e65173;stroke-opacity:1">
+      <path
+         d="m 775,160 c -4,-28 -2,-48 0,-64"
+         stroke-width="15"
+         fill="none"
+         id="path26"
+         style="stroke:#e65173;stroke-opacity:1" />
+      <path
+         d="M 775,100 C 756,84 736,80 724,88"
+         stroke-width="9"
+         fill="none"
+         id="path27"
+         style="stroke:#e65173;stroke-opacity:1" />
+      <path
+         d="M 775,98 C 762,76 748,64 732,62"
+         stroke-width="8"
+         fill="none"
+         id="path28"
+         style="stroke:#e65173;stroke-opacity:1" />
+      <path
+         d="M 775,100 C 794,84 814,80 826,88"
+         stroke-width="9"
+         fill="none"
+         id="path29"
+         style="stroke:#e65173;stroke-opacity:1" />
+      <path
+         d="M 775,98 C 788,76 802,64 818,62"
+         stroke-width="8"
+         fill="none"
+         id="path30"
+         style="stroke:#e65173;stroke-opacity:1" />
+      <circle
+         cx="775"
+         cy="92"
+         r="9"
+         stroke="none"
+         id="circle30"
+         style="fill:#e65173;fill-opacity:1;stroke:#e65173;stroke-opacity:1" />
+      <circle
+         cx="712"
+         cy="76"
+         r="5.5"
+         stroke="none"
+         id="circle31"
+         style="fill:#e65173;fill-opacity:1;stroke:#e65173;stroke-opacity:1" />
+      <circle
+         cx="838"
+         cy="76"
+         r="5.5"
+         stroke="none"
+         id="circle32"
+         style="stroke:#e65173;stroke-opacity:1" />
+      <circle
+         cx="775"
+         cy="50"
+         r="5"
+         stroke="none"
+         id="circle33"
+         style="fill:#e65173;fill-opacity:1;stroke:#e65173;stroke-opacity:1" />
+    </g>
+    <!-- rain cloud -->
+    <g
+       fill="#dee4f3"
+       id="g36"
+       transform="matrix(1.5878839,0,0,1.5878839,-558.9015,-147.56251)">
+      <ellipse
+         cx="505"
+         cy="148"
+         rx="36"
+         ry="24"
+         id="ellipse33" />
+      <ellipse
+         cx="545"
+         cy="142"
+         rx="30"
+         ry="22"
+         id="ellipse34" />
+      <ellipse
+         cx="568"
+         cy="154"
+         rx="22"
+         ry="15"
+         id="ellipse35" />
+      <ellipse
+         cx="532"
+         cy="161"
+         rx="48"
+         ry="17"
+         id="ellipse36" />
+    </g>
+    <g
+       stroke="#3b84d4"
+       stroke-width="6"
+       stroke-linecap="round"
+       id="g43"
+       transform="matrix(1.5878839,0,0,1.5878839,-564.9015,-137.56251)"
+       style="display:inline;stroke:#8db9e5;stroke-opacity:1"
+       inkscape:label="rain">
+      <path
+         d="m 498,182 -4,22"
+         id="path36"
+         style="stroke:#8db9e5;stroke-opacity:1" />
+      <path
+         d="m 524,178 -4,22"
+         id="path37"
+         style="stroke:#8db9e5;stroke-opacity:1" />
+      <path
+         d="m 550,182 -4,22"
+         id="path38"
+         style="stroke:#8db9e5;stroke-opacity:1" />
+      <path
+         d="m 574,188 -4,22"
+         id="path39"
+         style="stroke:#8db9e5;stroke-opacity:1" />
+      <path
+         d="m 505,222 -4,22"
+         id="path40"
+         style="stroke:#8db9e5;stroke-opacity:1" />
+      <path
+         d="m 533,216 -4,22"
+         id="path41"
+         style="stroke:#8db9e5;stroke-opacity:1" />
+      <path
+         d="m 559,222 -4,22"
+         id="path42"
+         style="stroke:#8db9e5;stroke-opacity:1" />
+      <path
+         d="m 580,230 -4,22"
+         id="path43"
+         style="stroke:#8db9e5;stroke-opacity:1" />
+    </g>
+    <!-- ===== cycle arrows ===== -->
+    <!-- ===== labels ===== -->
+    <path
+       d="m 18,438 c 102,-8 222,12 312,4 50,-5 65,-42 110,-102 30,-40 60,-54 105,-58 45,-4 75,-6 103,-8 52,-6 163.49669,-19.39073 305.49669,-23.39073 L 972.94431,613.49669 18,602 Z"
+       fill="#5e3131"
+       id="path9"
+       sodipodi:nodetypes="ccssccccc" />
+    <path
+       d="m 757,334 c 2,-62 6,-122 9,-176 h 18 c 3,54 7,114 9,176 z"
+       fill="#ce2828"
+       id="path24"
+       style="fill:#e65173;fill-opacity:1" />
+    <ellipse
+       cx="775"
+       cy="334"
+       rx="46"
+       ry="22"
+       fill="#c42323"
+       id="ellipse23"
+       style="fill:#e65173;fill-opacity:1" />
+    <path
+       d="m 18,496 c 182,-10 362,10 542,0 160,-9 300,6 382,-2 L 998.5,613.41182 18,602 Z"
+       fill="#9e9e9e"
+       id="path20"
+       sodipodi:nodetypes="cccccc"
+       style="display:inline"
+       inkscape:label="rock" />
+    <path
+       d="m 18,553.09456 c 182,-4.61372 362,4.61372 542,0 160,-4.15234 330.94431,2.76824 412.94431,-0.92274 l 32.84769,61.32487 C 676.528,609.66446 347.264,605.83223 18,602 Z"
+       fill="#9e9e9e"
+       id="path20-4"
+       style="fill:#e65173;fill-opacity:1;stroke-width:0.679244"
+       inkscape:label="magma"
+       sodipodi:nodetypes="cccccc" />
+    <!-- step badges -->
+    <path
+       style="fill:#e65173;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 757,551.71755 c 4.07956,-48.27142 20.5012,-81.66461 11.29392,-183.0834 C 767.15597,356.09949 758.75302,348.99491 757,334 h 36 c -16.49539,78.36203 -3.65067,156.72406 0,235.08609 z"
+       id="path67"
+       sodipodi:nodetypes="cscccc" />
+  </g>
+  <rect
+     style="display:inline;fill:#e65173;fill-opacity:1;stroke:none;stroke-width:15;paint-order:fill markers stroke"
+     id="rect1"
+     width="943.93048"
+     height="322.71078"
+     x="23.459625"
+     y="747.69135" />
+  <path
+     id="rect3"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 0,0 V 986.78516 H 1000 V 0 Z M 519.54297,47.357422 A 447.84756,447.84756 0 0 1 967.39062,495.20508 447.84756,447.84756 0 0 1 519.54297,943.05273 447.84756,447.84756 0 0 1 71.695312,495.20508 447.84756,447.84756 0 0 1 519.54297,47.357422 Z" />
+</svg>
