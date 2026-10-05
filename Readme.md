@@ -2,12 +2,33 @@ This repo contains slides, references and source material for my public PhD defe
 
 *"Origins of life in our Solar System - a computational engineering perspective"*
 
-### License
+# License
 The material is
 licensed under version 3 or later of the GNU General Public License.
 See the file LICENSE for full copying permissions.
 
-### References
+# Acknowledgements
+
+## iSALE
+This talk uses simulations and plotting routines from the iSALE shock physics code and its example problems, namely:
+
+https://github.com/isale-code/isale-wiki/wiki/Chicxulub-crater-formation
+
+https://github.com/isale-code/isale-wiki/wiki/Planetary-collision-with-self-gravity
+
+We gratefully acknowledge the developers of iSALE-2D, including Gareth Collins, Kai Wünnemann, Dirk Elbeshausen, Tom Davison, Boris Ivanov and Jay Melosh.
+
+## XSHELLS
+
+The presentation shows a geodynamo benchmark obtained with the open source XSHELLS, maintained by Nathanaël Schaeffer, see
+
+https://nschaeff.bitbucket.io/xshells/
+
+The exact benchmark can be found at 
+
+https://bitbucket.org/nschaeff/xshells/src/master/problems/geodynamo/
+
+# References
 
 (in alphabetical order)
 
